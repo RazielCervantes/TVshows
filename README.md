@@ -3,4 +3,4 @@
  
 ## Screenshot 
 
- ![homepage](Screenshots/homepage.jpeg)
+ ![homepage](screemshots/homepage.jpeg)
